@@ -1,0 +1,45 @@
+/* styles.css */
+body {
+    background-color: #FFD700; 
+    text-align: center; 
+    font-family: Arial, sans-serif; 
+}
+
+header {
+    padding: 20px;
+}
+
+main {
+    background-color: white; 
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block; 
+    text-align: left; 
+    margin: 0 auto; 
+}
+
+div {
+    margin-bottom: 10px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input,
+select,
+button {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+button {
+    background-color: #FFA500; 
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
